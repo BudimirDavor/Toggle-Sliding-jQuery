@@ -1,6 +1,10 @@
 html{
 	background-color:lightgreen;
 }
+#main{
+	text-align:center;
+	padding:10px;
+}
 p {
     background-color:green;
     text-align:center;
